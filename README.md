@@ -1,5 +1,5 @@
 # 👋 Hi, I'm Tindwende Thierry Sawadogo (OLY)  
-### Software Engineer | Olympic Athlete | Mathematics Enthusiast  
+### Software Engineer | Flutter Developer | Olympic Athlete  
 
 📍 **Master’s Student in Mathematics & Software Engineering @ UQTR**  
 💡 Passionate about **Software Development, Data Science, and AI**  
