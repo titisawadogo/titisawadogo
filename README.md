@@ -30,10 +30,10 @@
 ---
 
 ## 📂 **Notable Projects**
-- 🏗️ **[AHP Decision-Making App](https://github.com/titisawadogo/ahp-app)** → Flutter-based app implementing the AHP method.
-- 🔥 **[Wuucheck](https://www.wuucheck.com)** → A check-in and check-out app for iOS & Android.
-- 📡 **[Real-Time Firebase Chat](https://github.com/titisawadogo/chat-app)** → Cross-platform chat app using Flutter & Firebase.
-- 🏥 **UQTR Health & Safety App** → App for occupational health and safety calculations.
+- 🏗️ **AHP Decision-Making App** → Flutter-based app implementing the AHP method.  
+- 🔥 **Wuucheck** → A check-in and check-out app for iOS & Android.  
+- 📡 **Real-Time Firebase Chat** → Cross-platform chat app using Flutter & Firebase.  
+- 🏥 **UQTR Health & Safety App** → App for occupational health and safety calculations. 
 
 ---
 
@@ -62,4 +62,4 @@
 ## 🔗 **Connect With Me**
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tindwende-thierry-sawadogo-oly-045818149)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/titisawadogo)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=github&logoColor=white)](https://www.wuucheck.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/titisawadogo)
