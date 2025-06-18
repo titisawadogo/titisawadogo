@@ -30,6 +30,7 @@
 ---
 
 ## 📂 **Notable Projects**
+- 💌 ** w.y.s.y. which lets you send personalized wishes with unique themes, heartfelt messages.
 - 🏗️ **AHP Decision-Making App** → Flutter-based app implementing the AHP method.  
 - 🔥 **Wuucheck** → A check-in and check-out app for iOS & Android.  
 - 📡 **Real-Time Firebase Chat** → Cross-platform chat app using Flutter & Firebase.  
