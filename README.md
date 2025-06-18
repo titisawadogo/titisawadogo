@@ -31,6 +31,10 @@
 
 ## 📂 **Notable Projects**
 - 💌 ** w.y.s.y. which lets you send personalized wishes with unique themes, heartfelt messages.
+  ### Download Links:
+* **[App Store](https://apps.apple.com/us/app/w-y-s-y/id6745488721) 🍏**
+* **[Google Play](https://play.google.com/store/apps/details?id=com.thierry.wysy1&hl=en) 🤖**
+  
 - 🏗️ **AHP Decision-Making App** → Flutter-based app implementing the AHP method.  
 - 🔥 **Wuucheck** → A check-in and check-out app for iOS & Android.  
 - 📡 **Real-Time Firebase Chat** → Cross-platform chat app using Flutter & Firebase.  
