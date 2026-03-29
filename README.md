@@ -1,5 +1,5 @@
 # Hi, I'm Tindwende Thierry Sawadogo (OLY)
-### Software Engineer | Flutter & Full-Stack Developer | Olympic Athlete
+### Software Engineer | Olympic Athlete
 
 Master’s student in Mathematics & Software Engineering at UQTR. I build mobile and web products with a focus on polished user experience, scalable backend integrations, and AI-powered workflows.
 
