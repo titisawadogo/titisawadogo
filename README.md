@@ -35,7 +35,8 @@ Master’s student in Mathematics & Software Engineering at UQTR. I build mobile
 AI-powered career platform for hosting resumes, sharing professional digital profiles, creating tailored application materials, and organizing the full job-search workflow.
 
 [![Website](https://img.shields.io/badge/ResumeeBee-073B4C?style=for-the-badge&logo=googlechrome&logoColor=white)](https://resumeebee.com)
-[![Coming Soon](https://img.shields.io/badge/Coming_Soon-FFD166?style=for-the-badge&logo=clockify&logoColor=000000)](https://resumeebee.com)
+[![Download on the App Store](https://img.shields.io/badge/App_Store-0D96F6?style=for-the-badge&logo=appstore&logoColor=white)](https://apps.apple.com/app/id6758586705)
+[![Get it on Google Play](https://img.shields.io/badge/Google_Play-34A853?style=for-the-badge&logo=googleplay&logoColor=white)](https://play.google.com/store/apps/details?id=com.thierry.resumeeBee)
 
 ### YuFocus
 A clean focus timer and productivity app built around Pomodoro-style sessions and intentional deep work.
