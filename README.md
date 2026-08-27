@@ -1,7 +1,7 @@
 # Hi, I'm Tindwende Thierry Sawadogo (OLY)
 ### Software Engineer | Olympic Athlete
 
-Master’s student in Mathematics & Software Engineering at UQTR. I build mobile and web products with a focus on polished user experience, scalable backend integrations, and AI-powered workflows.
+I hold a Master’s degree in Mathematics & Software Engineering from UQTR. I build mobile and web products with a focus on polished user experience, scalable backend integrations, and AI-powered workflows.
 
 ## Tech Stack
 ### Languages
